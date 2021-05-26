@@ -1,0 +1,7 @@
+<row number=1,key word:xor , xor>
+<row number=1,key word:no , no>
+<row number=1,key word:yes , yes>
+<row number=1,iden from{x,y,z,1}-, y>
+<row number=1,iden from{x,y,z,1}-, xxxxxxxxx>
+<row number=2,iden from{x,y,z,1}-, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyy>
+<row number=3,iden from{x,y,z,1}-, yyyyy>
