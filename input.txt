@@ -1,0 +1,4 @@
+for y = to f do q = 111 end
+for y = 0 to f do q = 111 end
+
+for y = 0 to f do q = 111 end; for y = yfq0_ to fyq do qyyq0 = 211 end;
